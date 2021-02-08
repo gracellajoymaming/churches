@@ -1,0 +1,202 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: #000;
+    opacity: .7;
+}
+.navbar-brand img
+{
+    
+    background: black;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+
+}
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+}
+#nav-bar ul li a
+{
+    color: #fff!important;
+}
+#nav-bar .nav-item ul li a
+{
+    color: #000!important;
+}
+.navbar-bar
+{
+    background-color: #000;
+}
+.navbar-toggler
+{
+    border: none!important;
+
+}
+.nav-link
+{
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.box1{
+    height: 120vh;
+    width: 100%;
+    background-image: url('../img/ignatius_parish.png');
+    background-size: cover;
+    background-position: center;
+   display: table;
+   background-attachment: fixed;
+  
+}
+.margin
+{
+    margin: 5%;
+    text-align: justify;
+    background-color: #fff;
+    text-align: center;
+}
+
+.margin h1,h3
+{
+    text-align: center;
+    padding-top: 15px;
+}
+.margin p{
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: justify;
+    padding-bottom: 15px;
+}
+
+.box1 .margin{
+    margin-top: 20%;
+}
+.box2 .margin{
+    margin-top: 20%;
+}
+.box3 .margin{
+    margin-top: 20%;
+}
+.box4 .margin{
+    margin-top: 20%;
+}
+.box5 .margin{
+    margin-top: 20%;
+}
+.box6 .margin{
+    margin-top: 20%;
+}
+.box7 .margin{
+    margin-top: 20%;
+}
+.box8 .margin{
+    margin-top: 20%;
+}
+.box9 .margin{
+    margin-top: 20%;
+}
+.box2{
+    height: 120vh;
+    width: 100%;
+    background-image: url('../img/jesus_parish.jpg');
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box3{
+    height: 120vh;
+    width: 100%;
+    background-image: url('../img/St_Isidore_Labrador_Church.jpeg');
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box4{
+    height: 120vh;
+    width: 100%;
+    background-image: url('../img/goodvoyage_parish.jpg');
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box5{
+    height: 120vh;
+    width: 100%;
+    background-image: url('../img/holycross_church.jpeg');
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box6{
+    height: 120vh;
+    width: 100%;
+    background-image: url('../img/cawit_church.jpeg');
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box7{
+    height: 120vh;
+    width: 100%;
+    background-image: url('../img/immaculate_conception.jpeg');
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box8{
+    height: 120vh;
+    width: 100%;
+    background-image: url('../img/St\ _oseph_the_Workers_Parish_Church.jpeg');
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+.box9{
+    height: 120vh;
+    width: 100%;
+    background-image: url('../img/st_claire_monastery.jpeg');
+    background-size: cover;
+    background-position: center;
+    display: table;
+    background-attachment: fixed;
+}
+#footer
+{
+    background: #333;
+    color: #fff;
+    padding: 12px;
+
+}
+#footer .container
+{
+    width: 600px;
+    margin: 20px auto;
+}
+#footer .container p
+{
+    margin-left: 20px;
+}
